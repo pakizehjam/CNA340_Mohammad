@@ -17,7 +17,7 @@ Third, calculate and output the number of 1 gallon cans needed to paint the wall
 ## Running
 
   This project lab 5.2.py can run in PyCharm IDE.
-   Add any additional ways to run the program below:
+   The additional way to run the program:
    This project can run in cmd console by navigating to home directory 
    where lab 5.2.py saved. Runing example is below.
    C:\Users\moham\AppData\Roaming\JetBrains\PyCharmCE2020.1\scratches\lab 5.2.py
