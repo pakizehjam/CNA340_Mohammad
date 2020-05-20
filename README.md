@@ -12,7 +12,7 @@ Third, calculate and output the number of 1 gallon cans needed to paint the wall
 
 ### Prerequisites
    The Pyton PyCharm must be installed on local computer.
-   
+   Downloading Python Installer.
 
 ## Running
 
